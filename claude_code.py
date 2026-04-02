@@ -4,7 +4,7 @@
 #git config --global user.name "naam"
 #git config --global user.email "email"
 #als je wil pushen eerst opslaan (ctrl + s) en daarna links bij changes een message typen (zelf te kiezen) en deze committen en vervolgens synchroniseren
-
+#victor is goed bezig, maar vergeet niet regelmatig te committen en te pushen zodat je werk veilig is en anderen kunnen zien wat je hebt gedaan. Blijf vooral experimenteren en leren!
 import cv2
 import numpy as np
 import time
