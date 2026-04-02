@@ -1,3 +1,7 @@
+#git --version (checken of het al aanwezig is en anders VS Code terug afsluiten)
+#git clone https://github.com/wietse1cornette-gif/showdown2.git
+#cd showdown2
+
 import cv2
 import numpy as np
 import time
