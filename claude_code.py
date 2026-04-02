@@ -1,6 +1,9 @@
 #git --version (checken of het al aanwezig is en anders VS Code terug afsluiten)
 #git clone https://github.com/wietse1cornette-gif/showdown2.git
 #cd showdown2
+#git config --global user.name "naam"
+#git config --global user.email "email"
+#als je wil pushen eerst opslaan (ctrl + s) en daarna links bij changes een message typen (zelf te kiezen) en deze committen en vervolgens synchroniseren
 
 import cv2
 import numpy as np
